@@ -1,6 +1,6 @@
 // quiz1.rs
 //
-// This is a quiz for the following sections:
+// 这是以下章节的测验：
 // - Variables
 // - Functions
 // - If
